@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+the first repository
 Genetic Epidemiology
